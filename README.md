@@ -1,31 +1,14 @@
 ### Project title
-Give your project a nice title.
+Never Late
 
 ### What and why?
-What software system would you like to build this semester, and why?  Include a description of what problem the system would solve and why this is important.
+This is a mobile app that is used for planning time and reminding you events you need to attend. Including events at home and events where you need to go to a specific location. The planner will send notifications every day and before the starting time to remind you of the events.
 
 ### For whom?
-Who will this software be for?  These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users.  Tell us who they are.  For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+This software is for people who has a bit of trouble arriving on time and keep track of their plans and time.
 
 ### How?
-A description of what the system will do from an end-user's perspective.  Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+The user can log in their account to input their events and get notifications and plans based on them. For events at home, they can input the time the events start and appoximate time it would take. For events where the user needs to arrive to a location, the user inputs the times and the location of the event to estimate how long it would take to get there. The software will send notifications every day and slightly before the event to remind the user. If there are potential time conflict, the software will warn the user. 
 
 ### Scope
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
-
-## Submission
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and sub-headings for each section.
-
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
-
-Share the link to your document in your private Slack assignments channel AND in the public #project-ideas channel.  In both cases, include the title of your project for all to see in the message.
-
-## What happens next
-
-We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire. 
-
-If your proposal is selected, you are 99% guaranteed to be part of that team.
+The project shouldn't be very hard. In case it is too easy, it can add additional features. 
